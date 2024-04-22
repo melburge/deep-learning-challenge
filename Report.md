@@ -25,7 +25,7 @@ Result: Achieved accuracies of 71.17%.
 
 Model 3 in AlphabetSoupCharity_Optimisation.ipynb:
 Architecture: Four hidden layers with 64 nodes in layer 1 and 32 nodes in layer 2, 16 nodes in layer 3 and 8 nodes in layer 4. Activations used - relu layer 1, 2, 3 and 4 and sigmoid  output layer. Epochs 20
-Result: Achieved an accuracy of 72.39%.
+Result: Achieved an accuracy of 72.34%.
 
 
 AlphabetSoupCharity_Optimisation.ipynb
@@ -45,7 +45,7 @@ Set a learning rate of 0.0001 and applied dropout of 0.5 to improve model perfor
 Utilised relu activation for hidden layers and sigmoid for the output layer for better accuracy.
 
 5. Conclusion:
-Despite various optimisation attempts, including adjusting model architecture, hyperparameters, and preprocessing steps, the target accuracy of 75% was not achieved. The best-performing model achieved an accuracy of 72.39%. Further experimentation and fine-tuning may be necessary to improve the models performance.
+Despite various optimisation attempts, including adjusting model architecture, hyperparameters, and preprocessing steps, the target accuracy of 75% was not achieved. The best-performing model achieved an accuracy of 72.34%. Further experimentation and fine-tuning may be necessary to improve the models performance.
 
 
  
